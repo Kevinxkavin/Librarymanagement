@@ -24,7 +24,7 @@ This project follows a **Servlet-based architecture** and is ideal for understan
 * Basic CSS (Browser Default Styling)
 
 ### Database
-* Oracle Database
+* Oracle database
 * SQL for table creation and data manipulation
 
 ### Server & Tools
