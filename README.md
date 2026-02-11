@@ -142,10 +142,4 @@ View Book:
 7. Access via browser:
    [http://localhost:8081/libraryManagement/Menu.html]
 ---
-##  Author
-Kavinkumar N
-Java & Web Application Developer & Tester
----
-##  License
 
----
