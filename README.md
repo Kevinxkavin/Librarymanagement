@@ -1,4 +1,4 @@
-#  Library Management System (Servlet-Based Web Application)
+#  Library Management (Servlet-Based Web Application)
 
 ##  Project Overview
 
@@ -143,9 +143,9 @@ View Book:
    [http://localhost:8081/libraryManagement/Menu.html]
 ---
 ##  Author
-Iniyavan RK
-Java & Web Application Developer
+Kavinkumar N
+Java & Web Application Developer & Tester
 ---
 ##  License
-This project is created for educational and academic purposes.
+
 ---
